@@ -16,15 +16,6 @@
   </a>
 </div>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="center">🔭 I’m currently working on InterviewIQ AI<br><br>🌱 I’m currently learning GenAI,LLM Model</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
