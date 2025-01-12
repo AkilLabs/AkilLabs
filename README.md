@@ -1,174 +1,87 @@
-<h1 align="center">Hi 👋, I'm Akil A</h1>
-
-###
-
-<br clear="both">
+<h1 align="center">Hi there! I'm Akil A 👋</h1>
 
 <div align="center">
-  <img height="150" src="https://steamuserimages-a.akamaihd.net/ugc/947330279855950456/8A2906F9AA894B01E11E91A3BFBDF8D92B620A44/"  />
+  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/947330279855950456/8A2906F9AA894B01E11E91A3BFBDF8D92B620A44/" alt="profile banner" style="border-radius: 10px;" />
 </div>
 
-###
-
 <div align="center">
-  <a href="www.linkedin.com/in/akil-a-" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/akil-a-" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/akillabs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo" />
   </a>
 </div>
 
+<h2>🛠️ Tech Stack</h2>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+<h3>Programming Languages & Frameworks</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" alt="r" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="django" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" alt="flask" />
 </div>
 
-###
-
+<h3>Data Science & Analytics</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="45" alt="rstudio" />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+<h3>Development Tools & Technologies</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akillabs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akillabs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" />
 </div>
 
-###
+<h3>Design Tools</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva" />
+</div>
+
+<h2>📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akillabs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akillabs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akillabs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+<h2>📈 Activity</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/akillabs/count.svg?"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akillabs&bg_color=1a1b27&color=f1e0ac&line=e8a87c&point=c678dd&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
+<div align="center">
+  <h3>📅 Contribution Calendar</h3>
+  <img src="https://github.com/akillabs/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Calendar" />
+</div>
 
+<div align="center">
+  <h3>👁️ Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=akillabs&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
 
-
-
-
-<!--header-->
-<table>
-  <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
-  <tr><th colspan="2"><h3>📅 Isometric commit calendar</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.</p>
-</td></tr>
-  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://github.com">GitHub</a>.
-All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
-</td></tr>
-  <tr>
-    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a> <a href="/source/templates/terminal/README.md"><code>📙 Terminal template</code></a></td>
-  </tr>
-  <tr>
-    <td><code>👤 Users</code></td>
-  </tr>
-  <tr>
-    <td><code>🔑 (scopeless)</code> <code>read:org (optional)</code> <code>read:user (optional)</code> <code>read:packages (optional)</code> <code>repo (optional)</code></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      <details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>
-<!--/header-->
-
-## ➡️ Available options
-
-<!--options-->
-<table>
-  <tr>
-    <td align="center" nowrap="nowrap">Option</i></td><td align="center" nowrap="nowrap">Description</td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_isocalendar</code></h4></td>
-    <td rowspan="2"><p>Enable isocalendar plugin</p>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><b>type:</b> <code>boolean</code>
-<br>
-<b>default:</b> no<br></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_isocalendar_duration</code></h4></td>
-    <td rowspan="2"><p>Time range</p>
-<ul>
-<li><code>half-year</code>: 180 days</li>
-<li><code>full-year</code>: 1 year</li>
-</ul>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><b>type:</b> <code>string</code>
-<br>
-<b>default:</b> half-year<br>
-<b>allowed values:</b><ul><li>half-year</li><li>full-year</li></ul></td>
-  </tr>
-</table>
-<!--/options-->
-
-## ℹ️ Examples workflows
-
-<!--examples-->
-```yaml
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-
-```
-```yaml
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
-
-```
-<!--/examples-->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/akillabs/count.svg?" alt="Visit Counter" />
+</div>
