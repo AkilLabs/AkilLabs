@@ -71,15 +71,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akillabs&bg_color=1a1b27&color=f1e0ac&line=e8a87c&point=c678dd&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
+<h3>📅 Contribution Calendar</h3>
 <div align="center">
-  <h3>📅 Contribution Calendar</h3>
   <img src="https://github.com/akillabs/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Calendar" />
 </div>
 
-<div align="center">
-  <h3>👁️ Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=akillabs&style=for-the-badge&color=blue" alt="Profile Views" />
-</div>
+<h3>👁️ Profile Views</h3>
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/akillabs/count.svg?" alt="Visit Counter" />
