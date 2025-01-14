@@ -57,25 +57,11 @@
 
 <h2>📊 GitHub Statistics</h2>
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=akillabs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akillabs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akillabs&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkilLabs&theme=dracula" height="150" alt="GitHub Streak" />
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akillabs&label=Profile%20views&color=0e75b6&style=flat" alt="akillabs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akillabs" alt="akillabs" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akillabs&" alt="akillabs" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akillabs&show_icons=true&locale=en&layout=compact" alt="akillabs" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akillabs&" alt="akillabs" /></p>
 
 
 
