@@ -62,11 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akillabs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=akillabs&theme=dracula&hide_border=true&border_radius=5](https://github-readme-streak-stats.herokuapp.com?user=AkilLabs&theme=gruvbox)" height="220" alt="streak graph" />
-</div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkilLabs&theme=gruvbox)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkilLabs&theme=dracula" alt="GitHub Streak" /></a>
 
 <h2>📈 Activity</h2>
 
