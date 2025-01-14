@@ -13,9 +13,9 @@
   </a>
 </div>
 
-<h2>🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<h3>Programming Languages & Frameworks</h3>
+<h3 align="center">Programming Languages & Frameworks</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
   <img width="12" />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" alt="flask" />
 </div>
 
-<h3>Data Science & Analytics</h3>
+<h3 align="center">Data Science & Analytics</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" />
   <img width="12" />
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="45" alt="rstudio" />
 </div>
 
-<h3>Development Tools & Technologies</h3>
+<h3 align="center">Development Tools & Technologies</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
   <img width="12" />
@@ -48,36 +48,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" />
 </div>
 
-<h3>Design Tools</h3>
+<h3 align="center">Design Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva" />
 </div>
 
-<h2>📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 20px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akillabs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akillabs&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AkilLabs&theme=dracula" height="150" alt="GitHub Streak" />
 </div>
 
-
-
-<h2>📈 Activity</h2>
+<h2 align="center">📈 Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akillabs&bg_color=1a1b27&color=f1e0ac&line=e8a87c&point=c678dd&area=true&hide_border=true&theme=dracula" alt="GitHub Activity Graph" />
 </div>
 
-<h3>📅 Contribution Calendar</h3>
+<h3 align="center">📅 Contribution Calendar</h3>
 <div align="center">
   <img src="https://github.com/akillabs/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Calendar" />
 </div>
 
-<h3>👁️ Profile Views</h3>
-
+<h3 align="center">👁️ Profile Views</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/akillabs/count.svg?" alt="Visit Counter" />
