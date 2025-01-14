@@ -68,7 +68,7 @@
 <h2>📈 Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akillabs&bg_color=1a1b27&color=f1e0ac&line=e8a87c&point=c678dd&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akillabs&bg_color=1a1b27&color=f1e0ac&line=e8a87c&point=c678dd&area=true&hide_border=true&theme=dracula" alt="GitHub Activity Graph" />
 </div>
 
 <h3>📅 Contribution Calendar</h3>
