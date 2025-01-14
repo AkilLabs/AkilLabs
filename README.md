@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akillabs&theme=dracula&hide_border=true&border_radius=5" height="220" alt="streak graph" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=akillabs&theme=dracula&hide_border=true&border_radius=5](https://github-readme-streak-stats.herokuapp.com?user=AkilLabs&theme=gruvbox)" height="220" alt="streak graph" />
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkilLabs&theme=gruvbox)](https://git.io/streak-stats)
