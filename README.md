@@ -72,7 +72,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akillabs&show_icons=true&locale=en&layout=compact" alt="akillabs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akillabs&show_icons=true&locale=en" alt="akillabs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akillabs&" alt="akillabs" /></p>
 
