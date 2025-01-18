@@ -65,7 +65,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AkilLabs&theme=dracula" height="150" alt="GitHub Streak" />
 </div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkilLabs&theme=dracula" alt="GitHub Streak" /></a>
+
 <h2 align="center">📈 Activity</h2>
 
 <div align="center">
