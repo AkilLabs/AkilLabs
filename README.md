@@ -12,53 +12,77 @@
   </a>
 </div>
 
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+I am a passionate <b>AI & Full-Stack Developer</b> with expertise in <b>GenAI, LLMs, and Data Science</b>.  
+Currently, I am a <b>Junior Software Intern at SNS InnovationHub</b>, where I work on real-time projects using AI and LLM-based solutions.  
+I thrive on building <b>intelligent, scalable, and user-centric applications</b> that simplify complex problems.  
+</p>
+
+---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">Programming Languages & Frameworks</h3>
+<h3 align="center">👨‍💻 Programming & Frameworks</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" alt="r" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="django" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" alt="flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs" />
 </div>
 
-<h3 align="center">Data Science & Analytics</h3>
+<h3 align="center">🤖 AI, GenAI & LLMs</h3>
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="45" alt="rstudio" />
 </div>
 
-<h3 align="center">Development Tools & Technologies</h3>
+<h3 align="center">🛢️ Databases & Cloud</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase" />
 </div>
 
-<h3 align="center">Design Tools</h3>
+<h3 align="center">🎨 UI/UX & Design</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva" />
 </div>
 
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<h3>📌 Interview IQ</h3>
+<p>A GenAI-powered AI assistant for interview preparation, capable of analyzing resumes and generating HR questions. Built using <b>Gemini 1.5 Flash, CrewAI, and Streamlit</b>.</p>
+
+<h3>📌 StockPrediction Chatbot</h3>
+<p>A chatbot that predicts stock movements while ensuring media authenticity. Developed using <b>GenAI, Python, and Rapid API</b>.</p>
+
+
+
+---
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akillabs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akillabs&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akillabs&show_icons=true&theme=dracula&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akillabs&layout=compact&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
@@ -68,12 +92,7 @@
 <h2 align="center">📈 Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akillabs&bg_color=1a1b27&color=f1e0ac&line=e8a87c&point=c678dd&area=true&hide_border=true&theme=dracula" alt="GitHub Activity Graph" />
-</div>
-
-<h3 align="center">📅 Contribution Calendar</h3>
-<div align="center">
-  <img src="https://github.com/akillabs/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Calendar" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akillabs&theme=dracula" alt="GitHub Activity Graph" />
 </div>
 
 <h3 align="center">👁️ Profile Views</h3>
