@@ -1,12 +1,10 @@
-
 <div align="center">
   <img src="github-header-image.png" alt="header image" style="border-radius: 10px;" />
 </div>
-<h1 align="center">Hi there! I'm Akil A 👋</h1>
 
-<div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/947330279855950456/8A2906F9AA894B01E11E91A3BFBDF8D92B620A44/" alt="profile banner" style="border-radius: 10px;" />
-</div>
+
+  <h1>Hi there! I'm Akil A 👋</h1>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akil-a-" target="_blank">
@@ -20,9 +18,9 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-I am a passionate <b>AI & Full-Stack Developer</b> with expertise in <b>GenAI, LLMs, and Data Science</b>.  
-Currently, I am a <b>Junior Software Intern at SNS InnovationHub</b>, where I work on real-time projects using AI and LLM-based solutions.  
-I thrive on building <b>intelligent, scalable, and user-centric applications</b> that simplify complex problems.  
+I am a passionate <b>AI & Full-Stack Developer</b> with expertise in <b>GenAI, LLMs, and Data Science</b>.
+Currently, I am a <b>Junior Software Intern at SNS InnovationHub</b>, where I work on real-time projects using AI and LLM-based solutions.
+I thrive on building <b>intelligent, scalable, and user-centric applications</b> that simplify complex problems.
 </p>
 
 ---
@@ -30,42 +28,32 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">👨‍💻 Programming & Frameworks</h3>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="django" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs" />
 </div>
 
 <h3 align="center">🤖 AI, GenAI & LLMs</h3>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy" />
 </div>
 
 <h3 align="center">🛢️ Databases & Cloud</h3>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase" />
 </div>
 
 <h3 align="center">🎨 UI/UX & Design</h3>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva" />
 </div>
 
@@ -78,8 +66,6 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 
 <h3>📌 StockPrediction Chatbot</h3>
 <p>A chatbot that predicts stock movements while ensuring media authenticity. Developed using <b>GenAI, Python, and Rapid API</b>.</p>
-
-
 
 ---
 
