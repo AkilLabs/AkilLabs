@@ -1,8 +1,8 @@
-<h1 align="center">Hi there! I'm Akil A 👋</h1>
+
 <div align="center">
   <img src="github-header-image.png" alt="header image" style="border-radius: 10px;" />
 </div>
-
+<h1 align="center">Hi there! I'm Akil A 👋</h1>
 
 <div align="center">
   <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/947330279855950456/8A2906F9AA894B01E11E91A3BFBDF8D92B620A44/" alt="profile banner" style="border-radius: 10px;" />
