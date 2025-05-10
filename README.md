@@ -88,20 +88,6 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<h3>📌 Interview IQ</h3>
-<p>A GenAI-powered AI assistant for interview preparation, capable of analyzing resumes and generating HR questions. Built using <b>Gemini 1.5 Flash, CrewAI, and Streamlit</b>.</p>
-
-<h3>📌 StockPrediction Chatbot</h3>
-<p>A chatbot that predicts stock movements while ensuring media authenticity. Developed using <b>GenAI, Python, and Rapid API</b>.</p>
-
-<h3>📌 Electric Bike Dashboard</h3>
-<p>A comprehensive dashboard for monitoring electric bike performance and user analytics. Developed using <b>React, TypeScript, and MongoDB</b>.</p>
-
----
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
