@@ -15,10 +15,17 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
   <a href="https://www.linkedin.com/in/akil-a-" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/akillabs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitHub" />
+  <a href="https://akilalbs.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Portfolio" />
+  </a>
+  <a href="mailto:akilaskarali@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/akil_3124" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram" />
   </a>
 </div>
+
 
 
 <h2 align="center">💻 Tech Stack</h2>
