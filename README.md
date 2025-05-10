@@ -4,6 +4,13 @@
 
 <h1 align="center">Hi there! I'm Akil A 👋</h1>
 
+<p align="center">
+I am a passionate <b>AI & Full-Stack Developer</b> with expertise in <b>GenAI, LLMs, and Data Science</b>.<br>
+Currently, I am a <b>Junior Software Intern at SNS InnovationHub</b>, working on real-time projects using AI and LLM-based solutions.<br>
+I thrive on building <b>intelligent, scalable, and user-centric applications</b> that simplify complex problems.
+</p>
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/akil-a-" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
@@ -13,15 +20,6 @@
   </a>
 </div>
 
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-I am a passionate <b>AI & Full-Stack Developer</b> with expertise in <b>GenAI, LLMs, and Data Science</b>.<br>
-Currently, I am a <b>Junior Software Intern at SNS InnovationHub</b>, working on real-time projects using AI and LLM-based solutions.<br>
-I thrive on building <b>intelligent, scalable, and user-centric applications</b> that simplify complex problems.
-</p>
-
----
 
 <h2 align="center">💻 Tech Stack</h2>
 
