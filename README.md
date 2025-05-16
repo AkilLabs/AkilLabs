@@ -3,7 +3,7 @@
   <img src="github-header-image.png" alt="header image" style="border-radius: 10px;" />
 </div>
 
-<h1 align="center">Hi there! I'm Akil A 👋</h1>
+<h1 align="center">Hi there! I'm Akil A</h1>
 
 <p align="center">
 I am a passionate <b>AI & Full-Stack Developer</b> with expertise in <b>GenAI, LLMs, and Data Science</b>.<br>
