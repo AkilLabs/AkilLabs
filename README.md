@@ -5,6 +5,11 @@
 
 <h1 align="center">Hi there! I'm Akil A</h1>
 
+
+
+
+
+
 <p align="center">
 I am a passionate <b>AI & Full-Stack Developer</b> with expertise in <b>GenAI, LLMs, and Data Science</b>.<br>
 Currently, I am a <b>Junior Software Intern at SNS InnovationHub</b>, working on real-time projects using AI and LLM-based solutions.<br>
