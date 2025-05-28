@@ -101,6 +101,9 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 </div>
 
 <h3 align="center">👁️ Profile Views</h3>
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/AkilLabs/AkilLabs/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/akillabs/count.svg?" alt="Visit Counter" />
