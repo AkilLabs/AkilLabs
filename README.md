@@ -100,15 +100,6 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akillabs&theme=dracula" alt="GitHub Activity Graph" />
 </div>
 
-<h3 align="center">👁️ Profile Views</h3>
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/AkilLabs/AkilLabs/blob/output/github-contribution-grid-snake.svg)
-
-### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/AkilLabs/AkilLabs/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/akillabs/count.svg?" alt="Visit Counter" />
 </div>
