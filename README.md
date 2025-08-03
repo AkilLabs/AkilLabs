@@ -13,19 +13,25 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 
 <!-- Social Links -->
 <div align="center">
+
   <a href="https://www.linkedin.com/in/akil-a-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://akillabs.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=FF4C4C" />
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+
   <a href="mailto:akilaskarali@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.instagram.com/akil_3124" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
 </div>
+
 
 ---
 
