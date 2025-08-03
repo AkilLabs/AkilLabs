@@ -19,7 +19,7 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
   </a>
 
   <a href="https://akillabs.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/akillabs.tech-red?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
   <a href="mailto:akilaskarali@gmail.com" target="_blank">
