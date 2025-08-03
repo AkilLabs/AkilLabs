@@ -79,12 +79,9 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akillabs&show_icons=true&theme=default&title_color=FF4C4C&icon_color=FF4C4C&text_color=000000&bg_color=FFFFFF&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akillabs&layout=compact&theme=default&title_color=FF4C4C&text_color=000000&bg_color=FFFFFF&hide_border=true" height="160" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=AkilLabs&theme=default&hide_border=true&background=FFFFFF&ring=FF4C4C&fire=FF4C4C&currStreakLabel=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000&dates=000000" height="160" />
 </div>
+
 
 ---
 
@@ -95,7 +92,3 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/akillabs/count.svg?" alt="Visit Counter" />
-</div>
