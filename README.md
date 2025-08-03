@@ -16,7 +16,7 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
   <a href="https://www.linkedin.com/in/akil-a-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://akilalbs.me" target="_blank">
+  <a href="https://akillabs.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=FF4C4C" />
   </a>
   <a href="mailto:akilaskarali@gmail.com" target="_blank">
