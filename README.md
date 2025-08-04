@@ -35,7 +35,7 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 
 ---
 
-<h2 align="center" style="color: #FF4C4C;">💻 Tech Stack</h2>
+<h2 align="center" style="color: #FF4C4C;">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -81,7 +81,7 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 
 ---
 
-<h2 align="center" style="color: #FF4C4C;">📊 GitHub Statistics</h2>
+<h2 align="center" style="color: #FF4C4C;">GitHub Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akillabs&show_icons=true&theme=default&title_color=FF4C4C&icon_color=FF4C4C&text_color=000000&bg_color=FFFFFF&hide_border=true" height="160" />
@@ -91,7 +91,7 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 
 ---
 
-<h2 align="center" style="color: #FF4C4C;">📈 Activity</h2>
+<h2 align="center" style="color: #FF4C4C;">Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akillabs&theme=react&bg_color=FFFFFF&color=000000&line=FF4C4C&point=FF4C4C&area=true&hide_border=true" />
