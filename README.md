@@ -11,35 +11,35 @@ Currently, I am a <b>Junior Software Intern at SNS InnovationHub</b>, working on
 I thrive on building <b>intelligent, scalable, and user-centric applications</b> that simplify complex problems.
 </p>
 
-<!-- Social Links (styled like Tech Stack) -->
+<!-- Social Links (Tech-Stack style grid) -->
 <div align="center">
   <table align="center">
     <tr>
       <td align="center" width="100" style="padding:15px;">
-        <a href="https://www.linkedin.com/in/akil-a-" target="_blank">
+        <a href="https://www.linkedin.com/in/akil-a-" target="_blank" rel="noopener">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" />
-          <br>LinkedIn
+          <br><strong>LinkedIn</strong>
         </a>
       </td>
 
       <td align="center" width="100" style="padding:15px;">
-        <a href="https://akillabs.tech" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="48" alt="Website" />
-          <br>akillabs.tech
+        <a href="https://akillabs.tech" target="_blank" rel="noopener">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" alt="Website" />
+          <br><strong>akillabs.tech</strong>
         </a>
       </td>
 
       <td align="center" width="100" style="padding:15px;">
-        <a href="mailto:akilaskarali@gmail.com" target="_blank">
+        <a href="mailto:akilaskarali@gmail.com" target="_blank" rel="noopener">
           <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail" />
-          <br>Gmail
+          <br><strong>Gmail</strong>
         </a>
       </td>
 
       <td align="center" width="100" style="padding:15px;">
-        <a href="https://www.instagram.com/akil_3124" target="_blank">
+        <a href="https://www.instagram.com/akil_3124" target="_blank" rel="noopener">
           <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram" />
-          <br>Instagram
+          <br><strong>Instagram</strong>
         </a>
       </td>
     </tr>
