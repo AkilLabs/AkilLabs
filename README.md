@@ -84,6 +84,26 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 
 </table>
 
+<!-- Certifications -->
+<h2 align="center" style="color: #FF4C4C;">Certifications</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200" style="padding:15px;">
+        <img src="Assets/azure.png" width="96" alt="Microsoft Azure Certification" /><br>Microsoft Azure
+      </td>
+      <td align="center" width="200" style="padding:15px;">
+        <img src="Assets/postman.png" width="96" alt="Postman Certification" /><br>Postman
+      </td>
+      <td align="center" width="200" style="padding:15px;">
+        <img src="Assets/salesforce.png" width="96" alt="Salesforce Certification" /><br>Salesforce
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
 ---
 
 <h2 align="center" style="color: #FF4C4C;">GitHub Statistics</h2>
