@@ -39,7 +39,6 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 
 <table align="center">
 
-<!-- Row 1: Languages & Backend Frameworks -->
 <tr>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"><br>Python</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"><br>JavaScript</td>
@@ -48,49 +47,40 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48"><br>Flask</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"><br>FastAPI</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48"><br>Node.js</td>
+<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"><br>React</td>
 </tr>
 
-<!-- Row 2: Frontend & Mobile -->
 <tr>
-<td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"><br>React</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"><br>Next.js</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48"><br>Vite</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"><br>Flutter</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"><br>Tailwind CSS</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48"><br>MUI</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://ui.shadcn.com/favicon.ico" width="48"><br>shadcn/ui</td>
-</tr>
-
-<!-- Row 3: Databases & Cloud Services -->
-<tr>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"><br>MongoDB</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48"><br>Supabase</td>
+</tr>
+
+<tr>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"><br>Firebase</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"><br>GCP</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"><br>Docker</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"><br>Git</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"><br>Postman</td>
-</tr>
-
-<!-- Row 4: DevOps & Tools -->
-<tr>
-
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"><br>VS Code</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"><br>Figma</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48"><br>Canva</td>
+</tr>
+
+<tr>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"><br>Vercel</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.simpleicons.org/railway/000000" width="48"><br>Railway</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.simpleicons.org/render/46E3B7" width="48"><br>Render</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48"><br>Netlify</td>
-</tr>
-
-<!-- Row 5: AI & Automation -->
-<tr>
 <td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/huggingface-color.svg" width="48"><br>Hugging Face</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://cdn.simpleicons.org/n8n/EA4E62" width="48"><br>n8n</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/crewai.svg" width="48"><br>CrewAI</td>
 <td align="center" width="100" style="padding:15px;"><img src="https://serpapi.com/favicon.ico" width="48"><br>SerpAPI</td>
-<td align="center" width="100" style="padding:15px;"><img src="https://duckduckgo.com/favicon.ico" width="48"><br>DuckDuckGo</td>
 </tr>
 
 
