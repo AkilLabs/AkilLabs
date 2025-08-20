@@ -14,24 +14,39 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 <!-- Social Links -->
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/akil-a-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center" width="140" style="padding:12px;">
+        <a href="https://www.linkedin.com/in/akil-a-" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" />
+          <div>LinkedIn</div>
+        </a>
+      </td>
 
-  <a href="https://akillabs.tech" target="_blank">
-    <img src="https://img.shields.io/badge/akillabs.tech-red?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+      <td align="center" width="140" style="padding:12px;">
+        <a href="https://akillabs.tech" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="48" alt="Website" />
+          <div>akillabs.tech</div>
+        </a>
+      </td>
 
-  <a href="mailto:akilaskarali@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+      <td align="center" width="140" style="padding:12px;">
+        <a href="mailto:akilaskarali@gmail.com" target="_blank">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail" />
+          <div>Gmail</div>
+        </a>
+      </td>
 
-  <a href="https://www.instagram.com/akil_3124" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+      <td align="center" width="140" style="padding:12px;">
+        <a href="https://www.instagram.com/akil_3124" target="_blank">
+          <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram" />
+          <div>Instagram</div>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
-
 
 ---
 
