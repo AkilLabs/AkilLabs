@@ -11,40 +11,24 @@ Currently, I am a <b>Junior Software Intern at SNS InnovationHub</b>, working on
 I thrive on building <b>intelligent, scalable, and user-centric applications</b> that simplify complex problems.
 </p>
 
-<!-- Social Links (Tech-Stack style grid) -->
-<h2 align="center" style="color: #FF4C4C;">Connect with me</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="100" style="padding:15px;">
-      <a href="https://www.linkedin.com/in/akil-a-" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" />
-        <br><strong>LinkedIn</strong>
-      </a>
-    </td>
-
-    <td align="center" width="100" style="padding:15px;">
-      <a href="https://akillabs.tech" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" alt="Website" />
-        <br><strong>akillabs.tech</strong>
-      </a>
-    </td>
-
-    <td align="center" width="100" style="padding:15px;">
-      <a href="mailto:akilaskarali@gmail.com" target="_blank" rel="noopener">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail" />
-        <br><strong>Gmail</strong>
-      </a>
-    </td>
-
-    <td align="center" width="100" style="padding:15px;">
-      <a href="https://www.instagram.com/akil_3124" target="_blank" rel="noopener">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram" />
-        <br><strong>Instagram</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Social Links (badges) -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/akil-a-" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://akillabs.tech" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/akillabs.tech-FF4C4C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="mailto:akilaskarali@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/akil_3124" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
