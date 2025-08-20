@@ -91,13 +91,13 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
   <table>
     <tr>
       <td align="center" width="200" style="padding:15px;">
-        <img src="Assets/azure.png" width="96" alt="Microsoft Azure Certification" /><br>Microsoft Azure
+        <img src="Assets/azure.png" width="96" alt="Microsoft Azure Certification" /><br>Microsoft Azure AI Fundamentals
       </td>
       <td align="center" width="200" style="padding:15px;">
-        <img src="Assets/postman.png" width="96" alt="Postman Certification" /><br>Postman
+        <img src="Assets/postman.png" width="96" alt="Postman Certification" /><br>Postman API Fundamentals
       </td>
       <td align="center" width="200" style="padding:15px;">
-        <img src="Assets/salesforce.png" width="96" alt="Salesforce Certification" /><br>Salesforce
+        <img src="Assets/salesforce.png" width="96" alt="Salesforce Certification" /><br>Salesforce Certified Agentforce Specialist
       </td>
     </tr>
   </table>
