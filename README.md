@@ -12,39 +12,39 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 </p>
 
 <!-- Social Links (Tech-Stack style grid) -->
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="100" style="padding:15px;">
-        <a href="https://www.linkedin.com/in/akil-a-" target="_blank" rel="noopener">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" />
-          <br><strong>LinkedIn</strong>
-        </a>
-      </td>
+<h2 align="center" style="color: #FF4C4C;">Connect with me</h2>
 
-      <td align="center" width="100" style="padding:15px;">
-        <a href="https://akillabs.tech" target="_blank" rel="noopener">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" alt="Website" />
-          <br><strong>akillabs.tech</strong>
-        </a>
-      </td>
+<table align="center">
+  <tr>
+    <td align="center" width="100" style="padding:15px;">
+      <a href="https://www.linkedin.com/in/akil-a-" target="_blank" rel="noopener">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" />
+        <br><strong>LinkedIn</strong>
+      </a>
+    </td>
 
-      <td align="center" width="100" style="padding:15px;">
-        <a href="mailto:akilaskarali@gmail.com" target="_blank" rel="noopener">
-          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail" />
-          <br><strong>Gmail</strong>
-        </a>
-      </td>
+    <td align="center" width="100" style="padding:15px;">
+      <a href="https://akillabs.tech" target="_blank" rel="noopener">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" alt="Website" />
+        <br><strong>akillabs.tech</strong>
+      </a>
+    </td>
 
-      <td align="center" width="100" style="padding:15px;">
-        <a href="https://www.instagram.com/akil_3124" target="_blank" rel="noopener">
-          <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram" />
-          <br><strong>Instagram</strong>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+    <td align="center" width="100" style="padding:15px;">
+      <a href="mailto:akilaskarali@gmail.com" target="_blank" rel="noopener">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail" />
+        <br><strong>Gmail</strong>
+      </a>
+    </td>
+
+    <td align="center" width="100" style="padding:15px;">
+      <a href="https://www.instagram.com/akil_3124" target="_blank" rel="noopener">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram" />
+        <br><strong>Instagram</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
