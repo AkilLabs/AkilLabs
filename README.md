@@ -11,41 +11,39 @@ Currently, I am a <b>Junior Software Intern at SNS InnovationHub</b>, working on
 I thrive on building <b>intelligent, scalable, and user-centric applications</b> that simplify complex problems.
 </p>
 
-<!-- Social Links -->
+<!-- Social Links (styled like Tech Stack) -->
 <div align="center">
-
   <table align="center">
     <tr>
-      <td align="center" width="140" style="padding:12px;">
+      <td align="center" width="100" style="padding:15px;">
         <a href="https://www.linkedin.com/in/akil-a-" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" />
-          <div>LinkedIn</div>
+          <br>LinkedIn
         </a>
       </td>
 
-      <td align="center" width="140" style="padding:12px;">
+      <td align="center" width="100" style="padding:15px;">
         <a href="https://akillabs.tech" target="_blank">
           <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="48" alt="Website" />
-          <div>akillabs.tech</div>
+          <br>akillabs.tech
         </a>
       </td>
 
-      <td align="center" width="140" style="padding:12px;">
+      <td align="center" width="100" style="padding:15px;">
         <a href="mailto:akilaskarali@gmail.com" target="_blank">
           <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail" />
-          <div>Gmail</div>
+          <br>Gmail
         </a>
       </td>
 
-      <td align="center" width="140" style="padding:12px;">
+      <td align="center" width="100" style="padding:15px;">
         <a href="https://www.instagram.com/akil_3124" target="_blank">
           <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram" />
-          <div>Instagram</div>
+          <br>Instagram
         </a>
       </td>
     </tr>
   </table>
-
 </div>
 
 ---
