@@ -99,6 +99,9 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
       <td align="center" width="200" style="padding:15px;">
         <img src="Assets/salesforce.png" width="96" alt="Salesforce Certification" /><br>Salesforce Certified Agentforce Specialist
       </td>
+      <td align="center" width="200" style="padding:15px;">
+        <img src="Assets/oracle.png" width="190" alt="Salesforce Certification" /><br>Salesforce Certified Agentforce Specialist
+      </td>
     </tr>
   </table>
   
