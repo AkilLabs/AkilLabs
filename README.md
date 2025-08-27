@@ -107,6 +107,7 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
   
 </div>
 
+
 ---
 
 <h2 align="center" style="color: #FF4C4C;">GitHub Statistics</h2>
