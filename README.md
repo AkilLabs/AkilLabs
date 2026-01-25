@@ -101,7 +101,7 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
         <img src="Assets/salesforce.png" width="96" alt="Salesforce Certification" /><br>Salesforce Certified Agentforce Specialist
       </td>
       <td align="center" width="200" style="padding:15px;">
-        <img src="Assets/oracle.png" width="190" alt="Salesforce Certification" /><br>Salesforce Certified Agentforce Specialist
+        <img src="Assets/oracle.png" width="190" alt="Salesforce Certification" /><br>Foundation Assoicate
       </td>
     </tr>
   </table>
@@ -115,11 +115,8 @@ I thrive on building <b>intelligent, scalable, and user-centric applications</b>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akillabs&show_icons=true&theme=transparent&title_color=FF4C4C&icon_color=FF4C4C&text_color=808080&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=AkilLabs&theme=transparent&hide_border=true&ring=FF4C4C&fire=FF4C4C&currStreakLabel=808080&sideLabels=808080&dates=808080&currStreakNum=FF4C4C&sideNums=FF4C4C" height="160" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AkilLabs&theme=transparent&hide_border=true&ring=FF4C4C&fire=FF4C4C&currStreakLabel=808080&sideLabels=808080&dates=808080&currStreakNum=FF4C4C&sideNums=FF4C4C" height="160" />
 </div>
-
-
----
 
 <h2 align="center" style="color: #FF4C4C;">Activity</h2>
 
