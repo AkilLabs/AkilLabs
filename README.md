@@ -26,7 +26,6 @@ Currently solving complex <b>Agentic AI problems</b> and building autonomous mul
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/CrewAI-FF4C4C?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4E62?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/SerpAPI-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
