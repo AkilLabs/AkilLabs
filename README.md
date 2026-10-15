@@ -9,12 +9,12 @@
 <h3>Hi there, I'm Akil A 👋</h3>
 
 <p>
-<b>AI & Full-Stack Developer</b> specializing in <b>GenAI, Agentic Workflows, and Scalable Web Apps</b>.<br>
-Currently building real-time LLM solutions as a <b>Junior Software Intern at SNS InnovationHub</b>.
+<b>AI & Full-Stack Developer</b> specializing in <b>GenAI, LLMs, and Scalable Web Apps</b>.<br>
+Currently solving complex <b>Agentic AI problems</b> and building autonomous multi-agent workflows.
 </p>
 
 <p>
-<a href="https://akillabs.space"><img src="https://img.shields.io/badge/Portfolio-FF4C4C?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+<a href="https://akillabs.tech"><img src="https://img.shields.io/badge/Portfolio-FF4C4C?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/akil-a-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:akilaskarali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.instagram.com/akil_3124"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -26,6 +26,7 @@ Currently building real-time LLM solutions as a <b>Junior Software Intern at SNS
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/CrewAI-FF4C4C?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4E62?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/SerpAPI-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
