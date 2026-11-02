@@ -1,5 +1,5 @@
 <div align="center">
-<img src="github-banner.png" alt="Banner" width="100%" />
+  <img src="./stick-walk.gif" width="100%" alt="Walking stick figure" />
 </div>
 
 <br>
@@ -34,6 +34,5 @@ Currently solving complex <b>Agentic AI problems</b> and building autonomous mul
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akillabs&show_icons=true&theme=transparent&title_color=FF4C4C&icon_color=FF4C4C&text_color=808080&hide_border=true" height="145" />
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AkilLabs&theme=transparent&hide_border=true&ring=FF4C4C&fire=FF4C4C&currStreakLabel=808080&sideLabels=808080&dates=808080&currStreakNum=FF4C4C&sideNums=FF4C4C" height="145" />
 </div>
