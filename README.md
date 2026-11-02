@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./stick-walk.gif" width="100%" alt="Walking stick figure" />
+  <img src="./stick-walk-hq.gif" width="100%" alt="Walking stick figure" />
 </div>
 
 <br>
