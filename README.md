@@ -14,7 +14,7 @@ Currently solving complex <b>Agentic AI problems</b> and building autonomous mul
 </p>
 
 <p>
-<a href="https://akillabs.tech"><img src="https://img.shields.io/badge/Portfolio-FF4C4C?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+<a href="https://akillabs.space"><img src="https://img.shields.io/badge/Portfolio-FF4C4C?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/akil-a-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:akilaskarali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.instagram.com/akil_3124"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
