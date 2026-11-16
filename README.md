@@ -36,3 +36,7 @@ Currently solving complex <b>Agentic AI problems</b> and building autonomous mul
 <div align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AkilLabs&theme=transparent&hide_border=true&ring=FF4C4C&fire=FF4C4C&currStreakLabel=808080&sideLabels=808080&dates=808080&currStreakNum=FF4C4C&sideNums=FF4C4C" height="145" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkilLabs&label=Profile%20views&color=FF4C4C&style=flat-square" alt="Profile views" />
+</p>
