@@ -38,6 +38,7 @@ Currently solving complex <b>Agentic AI problems</b> and building autonomous mul
        height="145"
        alt="AkilLabs GitHub contribution streak" />
 </div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AkilLabs&label=Profile%20views&color=FF4C4C&style=flat-square" alt="Profile views" />
 </p>
