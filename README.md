@@ -34,7 +34,7 @@ Currently solving complex <b>Agentic AI problems</b> and building autonomous mul
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AkilLabs&theme=transparent&hide_border=true&ring=FF4C4C&fire=FF4C4C&currStreakLabel=808080&sideLabels=808080&dates=808080&currStreakNum=FF4C4C&sideNums=FF4C4C&v=2"
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AkilLabs&theme=transparent&hide_border=true&ring=FF4C4C&fire=FF4C4C&currStreakLabel=808080&sideLabels=808080&dates=808080&currStreakNum=FF4C4C&sideNums=FF4C4C&v=20261119-2"
        height="145"
        alt="AkilLabs GitHub contribution streak" />
 </div>
